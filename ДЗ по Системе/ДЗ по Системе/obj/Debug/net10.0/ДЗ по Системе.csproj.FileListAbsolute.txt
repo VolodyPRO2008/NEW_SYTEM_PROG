@@ -1,0 +1,15 @@
+C:\Users\Володя\source\repos\ДЗ по Системе\ДЗ по Системе\bin\Debug\net10.0\ДЗ по Системе.exe
+C:\Users\Володя\source\repos\ДЗ по Системе\ДЗ по Системе\bin\Debug\net10.0\ДЗ по Системе.deps.json
+C:\Users\Володя\source\repos\ДЗ по Системе\ДЗ по Системе\bin\Debug\net10.0\ДЗ по Системе.runtimeconfig.json
+C:\Users\Володя\source\repos\ДЗ по Системе\ДЗ по Системе\bin\Debug\net10.0\ДЗ по Системе.dll
+C:\Users\Володя\source\repos\ДЗ по Системе\ДЗ по Системе\bin\Debug\net10.0\ДЗ по Системе.pdb
+C:\Users\Володя\source\repos\ДЗ по Системе\ДЗ по Системе\obj\Debug\net10.0\ДЗ по Системе.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Володя\source\repos\ДЗ по Системе\ДЗ по Системе\obj\Debug\net10.0\ДЗ по Системе.AssemblyInfoInputs.cache
+C:\Users\Володя\source\repos\ДЗ по Системе\ДЗ по Системе\obj\Debug\net10.0\ДЗ по Системе.AssemblyInfo.cs
+C:\Users\Володя\source\repos\ДЗ по Системе\ДЗ по Системе\obj\Debug\net10.0\ДЗ по Системе.csproj.CoreCompileInputs.cache
+C:\Users\Володя\source\repos\ДЗ по Системе\ДЗ по Системе\obj\Debug\net10.0\ДЗ по Системе.dll
+C:\Users\Володя\source\repos\ДЗ по Системе\ДЗ по Системе\obj\Debug\net10.0\refint\ДЗ по Системе.dll
+C:\Users\Володя\source\repos\ДЗ по Системе\ДЗ по Системе\obj\Debug\net10.0\ДЗ по Системе.pdb
+C:\Users\Володя\source\repos\ДЗ по Системе\ДЗ по Системе\obj\Debug\net10.0\ДЗ по Системе.genruntimeconfig.cache
+C:\Users\Володя\source\repos\ДЗ по Системе\ДЗ по Системе\obj\Debug\net10.0\ref\ДЗ по Системе.dll
+C:\Users\Володя\source\repos\ДЗ по Системе\ДЗ по Системе\obj\Debug\net10.0\__ __ __.97B0653B.Up2Date
